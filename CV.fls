@@ -1,8 +1,8 @@
-PWD /Users/pietromp/Documents/GitHub/CV
+PWD /Users/pietromp/Documents/GitHub/pietropic.github.io/CV
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/pietromp/Documents/GitHub/CV/CV.tex
+INPUT /Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex
 OUTPUT CV.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncv.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncv.cls
