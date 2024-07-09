@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  9 JUL 2024 18:10
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  9 JUL 2024 18:00
+>>>>>>> 7c9ec4566da3639d4e1ab8a1424ce07290a641ee
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1148,7 +1152,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28629 strings out of 474116
+<<<<<<< HEAD
  547215 string characters out of 5743682
+=======
+ 547155 string characters out of 5743682
+>>>>>>> 7c9ec4566da3639d4e1ab8a1424ce07290a641ee
  1971187 words of memory out of 5000000
  50448 multiletter control sequences out of 15000+600000
  569325 words of font info for 106 fonts, out of 8000000 for 9000
