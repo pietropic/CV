@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  17 OCT 2024 17:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  31 OCT 2024 17:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1034,11 +1034,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 67.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 \makecvheadpicturebox=\box70
-<pietro-2023-2.jpeg, id=86, 100.4553pt x 132.0132pt>
-File: pietro-2023-2.jpeg Graphic file (type jpg)
-<use pietro-2023-2.jpeg>
-Package pdftex.def Info: pietro-2023-2.jpeg  used on input line 67.
-(pdftex.def)             Requested size: 70.0pt x 91.99162pt.
 \makecvheaddetailswidth=\skip100
 \makecvheadpicturewidth=\skip101
 \makecvheadnamebox=\box71
@@ -1102,7 +1097,7 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 99.
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc} <./pietro-2023-2.jpeg>]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 116.
@@ -1144,21 +1139,21 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 513B0C8FD9DC051FCF05C2EC0182EF21;2747.
+(rerunfilecheck)             Checksum: C7C13F6B9AFE4AAEFAE0575E50C04C9C;2752.
  ) 
 Here is how much of TeX's memory you used:
- 28630 strings out of 474116
- 547245 string characters out of 5743682
- 1970187 words of memory out of 5000000
- 50453 multiletter control sequences out of 15000+600000
+ 28623 strings out of 474116
+ 547071 string characters out of 5743682
+ 1969187 words of memory out of 5000000
+ 50446 multiletter control sequences out of 15000+600000
  568971 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,129p,1055b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
-Output written on CV.pdf (3 pages, 272551 bytes).
+Output written on CV.pdf (3 pages, 147568 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
+ 153 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 500000)
- 39082 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 39077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
