@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  3 JAN 2025 17:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  10 JAN 2025 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1094,36 +1094,36 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removed on input line 89.
 
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 102.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 105.
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 119.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 122.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 119.
+(hyperref)                removed on input line 122.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 165.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 165.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 166.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 168.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 166.
+(hyperref)                removed on input line 168.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 169.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.475pt
+(hyperref)                removed on input line 169.
 
 [2] [3] (./CV.aux)
  ***********
@@ -1144,16 +1144,16 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  28617 strings out of 474116
  547011 string characters out of 5743682
- 1972187 words of memory out of 5000000
+ 1976187 words of memory out of 5000000
  50446 multiletter control sequences out of 15000+600000
  568733 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,129p,1055b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
-Output written on CV.pdf (3 pages, 147740 bytes).
+Output written on CV.pdf (3 pages, 147907 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
+ 184 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 500000)
  39077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
