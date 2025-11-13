@@ -334,10 +334,19 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/doublestroke/Udsss.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/doublestroke/Udsss.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/doublestroke/Udsss.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT CV.aux
 INPUT ./CV.out
 INPUT ./CV.out
@@ -351,3 +360,4 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.p
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb

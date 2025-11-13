@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  25 FEB 2025 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  13 NOV 2025 20:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1063,26 +1063,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 70.
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.475pt
+(hyperref)                removed on input line 73.
+
+
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 71.
+(Font)              using `OT1/cmss/bx/n' instead on input line 74.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 80.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 80.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 86.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 86.
+(hyperref)                removed on input line 83.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1093,39 +1093,67 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
 (hyperref)                removed on input line 89.
 
-LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 106.
+LaTeX Font Info:    Trying to load font information for U+dsss on input line 91.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/doublestroke/Udsss.fd
+File: Udsss.fd 1995/08/01 v0.1 Double stroke sans serif font definitions
+)
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/10'
+(microtype)             (new value: 10.0pt) on input line 91.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/7'
+(microtype)             (new value: 7.0pt) on input line 91.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/5'
+(microtype)             (new value: 5.0pt) on input line 91.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/10.95'
+(microtype)             (new value: 10.95pt) on input line 91.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/8'
+(microtype)             (new value: 8.0pt) on input line 91.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/6'
+(microtype)             (new value: 6.0pt) on input line 91.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 93.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.475pt
+(hyperref)                removed on input line 93.
+
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 123.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 123.
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 122.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 169.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 169.
+(hyperref)                removed on input line 139.
 
+[2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 170.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 191.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 170.
+(hyperref)                removed on input line 191.
 
-[2] [3] (./CV.aux)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 192.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.475pt
+(hyperref)                removed on input line 192.
+
+[3] (./CV.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1139,21 +1167,21 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 8ADD18A935F669A5ED8FB6570490061A;2619.
+(rerunfilecheck)             Checksum: 0747E8804E992FCF7398C29F47D87A8E;2742.
  ) 
 Here is how much of TeX's memory you used:
- 28614 strings out of 474116
- 546979 string characters out of 5743682
- 1976187 words of memory out of 5000000
- 50444 multiletter control sequences out of 15000+600000
- 568733 words of font info for 99 fonts, out of 8000000 for 9000
+ 28668 strings out of 474116
+ 547758 string characters out of 5743682
+ 1970187 words of memory out of 5000000
+ 50468 multiletter control sequences out of 15000+600000
+ 570163 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,1055b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
-Output written on CV.pdf (3 pages, 146429 bytes).
+ 129i,14n,129p,1055b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb>
+Output written on CV.pdf (3 pages, 152999 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 39069 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 199 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 39077 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740474765.30294 "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" "CV.pdf" "CV" 1740474766.80431 0
-  "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" 1740474763.46044 11434 38d594e9fd14a1c48a5f7ed640acf21b ""
+["pdflatex"] 1763060725.99536 "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" "CV.pdf" "CV" 1763060727.00502 0
+  "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" 1763060725.74763 14282 8fd3ff0e44f3177ced61e24a106a07c5 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -19,6 +19,8 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss10.tfm" 1136768653 460 72cab87caa0cdf872abff83746262137 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/doublestroke/dsss8.tfm" 1136768653 452 7b6fa2e84161f31544f1902bed3e0921 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0regular.tfm" 1622837620 1132 8aee78c25f591abde3c9ce09e694423f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm" 1622837620 1204 3c27bf26105e0c1f2d31dba92f1c652d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
@@ -30,6 +32,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb" 1248133631 28902 2f5c04fd2884d1878057baa5aad22765 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb" 1248133631 25150 e0d09798d232ab9d00c5c0a8df6cc22d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb" 1248133631 24977 89a36aa3f4ca925a4e0ea69a61109bd1 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb" 1136849748 12746 f53a6cb9b518e1ea917a11e4dc89aee4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb" 1651520503 58496 99faf1e070706908acf67d1cfee72833 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651520503 295323 d099723373a00cc17d5ae0c9738bb5b3 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -114,6 +117,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo" 1705352648 8464 59874a3b0776c73e2a138b025d8473dd ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd" 1501364450 2679 d425462515e71491c8b283467c8a268c ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty" 1708463147 12355 ec728d2e4c37cf8919ee2eff9b75ad0c ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/doublestroke/Udsss.fd" 1137110062 210 c26cfc50d5a5ce0c5d77f25d6823c362 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/doublestroke/dsfont.sty" 1137110062 230 7bc61880b468bfd38aedc173be7c3486 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
@@ -187,9 +191,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1718280705.71577 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1718280577 8221428 944bd591d38caf7f21a9e06334282380 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV.aux" 1740474766.63677 2222 d2ede9141f1ec22352a1dbce4decb62a "pdflatex"
-  "CV.out" 1740474766.6377 2619 8add18a935f669a5ed8fb6570490061a "pdflatex"
-  "CV.tex" 1740474763.46044 11434 38d594e9fd14a1c48a5f7ed640acf21b ""
+  "CV.aux" 1763060726.89246 2331 31fd04fda763697126854003910c37dd "pdflatex"
+  "CV.out" 1763060726.89304 2742 0747e8804e992fcf7398c29f47d87a8e "pdflatex"
+  "CV.tex" 1763060725.74763 14282 8fd3ff0e44f3177ced61e24a106a07c5 ""
   (generated)
   "CV.aux"
   "CV.log"
