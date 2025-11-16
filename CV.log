@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  13 NOV 2025 20:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.13)  16 NOV 2025 11:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1137,21 +1137,21 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 191.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.475pt
-(hyperref)                removed on input line 191.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 192.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.475pt
 (hyperref)                removed on input line 192.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.475pt
+(hyperref)                removed on input line 193.
 
 [3] (./CV.aux)
  ***********
@@ -1167,21 +1167,21 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 0747E8804E992FCF7398C29F47D87A8E;2742.
+(rerunfilecheck)             Checksum: 96473179BD6F063BEADC0C75EC322BF9;2800.
  ) 
 Here is how much of TeX's memory you used:
- 28668 strings out of 474116
- 547758 string characters out of 5743682
- 1970187 words of memory out of 5000000
- 50468 multiletter control sequences out of 15000+600000
+ 28669 strings out of 474116
+ 547776 string characters out of 5743682
+ 1971187 words of memory out of 5000000
+ 50469 multiletter control sequences out of 15000+600000
  570163 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,14n,129p,1055b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb>
-Output written on CV.pdf (3 pages, 152999 bytes).
+Output written on CV.pdf (3 pages, 153911 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
+ 200 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 500000)
  39077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
