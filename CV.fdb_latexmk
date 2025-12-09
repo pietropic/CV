@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763387407.53361 "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" "CV.pdf" "CV" 1763387408.5073 0
-  "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" 1763387407.10908 14484 3fe1b814a85ea3922460be517960c7a9 ""
+["pdflatex"] 1765013138.65821 "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" "CV.pdf" "CV" 1765013140.22023 0
+  "/Users/pietromp/Documents/GitHub/pietropic.github.io/CV/CV.tex" 1765013136.74896 15264 8ee14b4743119065337a19e7855bdc02 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -191,9 +191,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1718280705.71577 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1718280577 8221428 944bd591d38caf7f21a9e06334282380 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV.aux" 1763387408.39875 2342 4c3b34d0422c4d1f3d2d50d1755cbfe5 "pdflatex"
-  "CV.out" 1763387408.39947 2800 96473179bd6f063beadc0c75ec322bf9 "pdflatex"
-  "CV.tex" 1763387407.10908 14484 3fe1b814a85ea3922460be517960c7a9 ""
+  "CV.aux" 1765013140.04912 2342 52cc00d54b4ec8648d23b35d8898467b "pdflatex"
+  "CV.out" 1765013140.05011 2800 c8ac770a90cfb733d29093d2a213654d "pdflatex"
+  "CV.tex" 1765013136.74896 15264 8ee14b4743119065337a19e7855bdc02 ""
   (generated)
   "CV.aux"
   "CV.log"
