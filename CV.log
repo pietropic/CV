@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  7 JAN 2026 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  12 JAN 2026 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -537,7 +537,9 @@ Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
+Package: moderncvcolororange 2024-07-18 v2.4.1 modern curriculum vitae and letter color scheme: orange
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2024-07-18 v2.4.1 modern curriculum vitae and letter style scheme: classic
  (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncviconssymbols.sty
 Package: moderncviconssymbols 2021-12-12 v2.2.0 modern curriculum vitae icons selector
@@ -801,9 +803,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on in
 \cvitemwithcommentbox=\box68
 \cvitemwithcommentskilllength=\skip104
 \cvitemwithcommentcommentlength=\skip105
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
-Package: moderncvcolororange 2024-07-18 v2.4.1 modern curriculum vitae and letter color scheme: orange
- (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -925,35 +925,35 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 64.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 64.
+Package hyperref Info: Option `breaklinks' set `true' on input line 66.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 66.
  (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 64.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 66.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count328
@@ -973,20 +973,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 64.
-Package microtype Info: Applying patch `item' on input line 64.
-Package microtype Info: Applying patch `toc' on input line 64.
-Package microtype Info: Applying patch `eqnum' on input line 64.
-Package microtype Info: Applying patch `footnote' on input line 64.
-Package microtype Info: Applying patch `verbatim' on input line 64.
-LaTeX Info: Redefining \microtypesetup on input line 64.
+LaTeX Info: Redefining \microtypecontext on input line 66.
+Package microtype Info: Applying patch `item' on input line 66.
+Package microtype Info: Applying patch `toc' on input line 66.
+Package microtype Info: Applying patch `eqnum' on input line 66.
+Package microtype Info: Applying patch `footnote' on input line 66.
+Package microtype Info: Applying patch `verbatim' on input line 66.
+LaTeX Info: Redefining \microtypesetup on input line 66.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 64.
+LaTeX Info: Redefining \showhyphens on input line 66.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1029,7 +1029,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 66.
 (./CV.out) (./CV.out)
 \@outlinefile=\write4
 \openout4 = `CV.out'.
@@ -1040,10 +1040,10 @@ Package hyperref Info: Link coloring OFF on input line 64.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 68.
+(Font)              <7> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 68.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 68.
+(Font)              <5> on input line 70.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 70.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 \makecvheadpicturebox=\box71
 \makecvheaddetailswidth=\skip108
@@ -1052,75 +1052,75 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on in
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <34> not available
-(Font)              size <35.83> substituted on input line 68.
+(Font)              size <35.83> substituted on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 70.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 70.
+(hyperref)                removed on input line 72.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 70.
+(Font)              <10.95> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 72.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 73.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 73.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 83.
+(hyperref)                removed on input line 75.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 90.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 85.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 90.
+(hyperref)                removed on input line 85.
 
-LaTeX Font Info:    Trying to load font information for U+dsss on input line 92.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.44pt
+(hyperref)                removed on input line 92.
+
+LaTeX Font Info:    Trying to load font information for U+dsss on input line 94.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/Udsss.fd
 File: Udsss.fd 1995/08/01 v0.1 Double stroke sans serif font definitions
 )
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 92.
+(microtype)             (new value: 10.0pt) on input line 94.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 92.
+(microtype)             (new value: 7.0pt) on input line 94.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 92.
+(microtype)             (new value: 5.0pt) on input line 94.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/10.95'
-(microtype)             (new value: 10.95pt) on input line 92.
+(microtype)             (new value: 10.95pt) on input line 94.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/8'
-(microtype)             (new value: 8.0pt) on input line 92.
+(microtype)             (new value: 8.0pt) on input line 94.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/6'
-(microtype)             (new value: 6.0pt) on input line 92.
+(microtype)             (new value: 6.0pt) on input line 94.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 94.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 94.
+(hyperref)                removed on input line 96.
 
 
 
@@ -1129,33 +1129,33 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 140.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 142.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 140.
+(hyperref)                removed on input line 142.
 
 
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 195.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 197.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 195.
+(hyperref)                removed on input line 197.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 196.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 196.
+(hyperref)                removed on input line 198.
 
 
 
@@ -1175,13 +1175,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  29281 strings out of 473190
  558684 string characters out of 5715801
- 978328 words of memory out of 5000000
+ 978427 words of memory out of 5000000
  51937 multiletter control sequences out of 15000+600000
  581129 words of font info for 129 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,14n,129p,1035b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,14n,129p,1035b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfso1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on CV.pdf (3 pages, 219298 bytes).
+Output written on CV.pdf (3 pages, 219359 bytes).
 PDF statistics:
  228 PDF objects out of 1000 (max. 8388607)
  190 compressed objects within 2 object streams

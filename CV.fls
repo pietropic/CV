@@ -99,6 +99,11 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-engli
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-en.ini
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/dsfont.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/dsfont.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncviconssymbols.sty
@@ -113,8 +118,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-gen
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncviconstikz.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncviconstikz.sty
@@ -230,9 +233,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0regular.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
