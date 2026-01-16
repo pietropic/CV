@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  16 JAN 2026 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  16 JAN 2026 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1157,21 +1157,21 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/12'
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 203.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 203.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
 (hyperref)                removed on input line 204.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.44pt
+(hyperref)                removed on input line 205.
 
 
 
@@ -1197,10 +1197,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  129i,14n,129p,1035b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfso1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on CV.pdf (3 pages, 219732 bytes).
+Output written on CV.pdf (3 pages, 219866 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
+ 233 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
  41133 words of extra memory for PDF output out of 42996 (max. 10000000)
 
