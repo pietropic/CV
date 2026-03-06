@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  27 FEB 2026 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  6 MAR 2026 13:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/piccione/Documents/GitHub/CV/CV.tex
-(/Users/piccione/Documents/GitHub/CV/CV.tex
+**/Users/piccione/Documents/GitHub/CV/short_CV.tex
+(/Users/piccione/Documents/GitHub/CV/short_CV.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -537,7 +537,9 @@ Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolororange.sty
 Package: moderncvcolororange 2024-07-18 v2.4.1 modern curriculum vitae and letter color scheme: orange
  (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2024-07-18 v2.4.1 modern curriculum vitae and letter style scheme: classic
@@ -585,7 +587,7 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yc=\dimen158
 \pgf@xd=\dimen159
 \pgf@yd=\dimen160
-\w@pgf@writea=\write3
+\w@pgf@writea=\write4
 \r@pgf@reada=\read3
 \c@pgf@counta=\count281
 \c@pgf@countb=\count282
@@ -927,8 +929,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 66.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 66.
- (./CV.aux)
-\openout1 = `CV.aux'.
+ (./short_CV.aux)
+\openout1 = `short_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
@@ -1030,9 +1032,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 66.
-(./CV.out) (./CV.out)
-\@outlinefile=\write4
-\openout4 = `CV.out'.
+(./short_CV.out) (./short_CV.out)
+\@outlinefile=\write5
+\openout5 = `short_CV.out'.
 
 \pagenumberwidth=\skip107
 \makecvheaddetailsbox=\box70
@@ -1096,31 +1098,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
 (hyperref)                removed on input line 92.
 
-LaTeX Font Info:    Trying to load font information for U+dsss on input line 94.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/Udsss.fd
-File: Udsss.fd 1995/08/01 v0.1 Double stroke sans serif font definitions
-)
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 94.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 94.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 94.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/10.95'
-(microtype)             (new value: 10.95pt) on input line 94.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/8'
-(microtype)             (new value: 8.0pt) on input line 94.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/6'
-(microtype)             (new value: 6.0pt) on input line 94.
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 95.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 95.
+(hyperref)                removed on input line 96.
 
 
 
@@ -1129,53 +1114,39 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 151.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 151.
+(hyperref)                removed on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 152.
+(hyperref)                removing `math shift' on input line 156.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathaccent' on input line 152.
+(hyperref)                removing `\mathaccent' on input line 156.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 152.
+(hyperref)                removing `math shift' on input line 156.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 152.
-Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsss/m/n/12'
-(microtype)             (new value: 12.0pt) on input line 152.
-
-
-[2]
+(Font)              <12> on input line 156.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 207.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 201.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 207.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 208.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 208.
+(hyperref)                removed on input line 201.
 
 
 
-[3] (./CV.aux)
+[2] (./short_CV.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1185,22 +1156,22 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.83pt have occurred.
 
-Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 60389F924582701EA61D786EFE655438;3023.
+Package rerunfilecheck Info: File `short_CV.out' has not changed.
+(rerunfilecheck)             Checksum: 0D3E45B5971D5D5452306856236A3ADA;2304.
  ) 
 Here is how much of TeX's memory you used:
- 29288 strings out of 473190
- 558824 string characters out of 5715801
- 977427 words of memory out of 5000000
- 51947 multiletter control sequences out of 15000+600000
- 581685 words of font info for 130 fonts, out of 8000000 for 9000
+ 29276 strings out of 473190
+ 558952 string characters out of 5715801
+ 980166 words of memory out of 5000000
+ 51961 multiletter control sequences out of 15000+600000
+ 578360 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,14n,129p,1035b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/doublestroke/dsss10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfso1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on CV.pdf (3 pages, 218920 bytes).
+ 129i,13n,129p,1041b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on short_CV.pdf (2 pages, 189957 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 41133 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 37005 words of extra memory for PDF output out of 42996 (max. 10000000)
 
