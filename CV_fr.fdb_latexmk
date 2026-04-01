@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1768533549.26995 "/Users/piccione/Documents/GitHub/CV/CV_fr.tex" "CV_fr.pdf" "CV_fr" 1768533550.19733 0
-  "/Users/piccione/Documents/GitHub/CV/CV_fr.tex" 1768533549.05441 13431 25bfcb254f55a39d471eb3911b1aceb4 ""
+["pdflatex"] 1774968584.14388 "/Users/piccione/Documents/GitHub/CV/CV_fr.tex" "CV_fr.pdf" "CV_fr" 1774968584.97583 0
+  "/Users/piccione/Documents/GitHub/CV/CV_fr.tex" 1774968583.96792 13625 4822673adee6e85ab25bcc9ed10e27c6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -209,9 +209,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767765642 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767765564 3345741 5506a75cce5d2bbb6b478a2dc9d08f1b ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "CV_fr.aux" 1768533550.078 2663 a074672216f2ebe7cf5270a9992977ae "pdflatex"
-  "CV_fr.out" 1768533550.07968 3390 3a4d5b099a71917bf8026ed66aae41d3 "pdflatex"
-  "CV_fr.tex" 1768533549.05441 13431 25bfcb254f55a39d471eb3911b1aceb4 ""
+  "CV_fr.aux" 1774968584.86147 2778 0936f49a1e0b3df82f543bbca9033b1e "pdflatex"
+  "CV_fr.out" 1774968584.86368 3589 fd8b334c8f5bb8b5fe96367a1598cc5f "pdflatex"
+  "CV_fr.tex" 1774968583.96792 13625 4822673adee6e85ab25bcc9ed10e27c6 ""
   (generated)
   "CV_fr.aux"
   "CV_fr.log"
