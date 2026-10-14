@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  8 MAY 2026 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  8 MAY 2026 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1005,15 +1005,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
-* v-part:(T,H,B)=(33.80392pt, 760.53699pt, 50.70593pt)
+* h-part:(L,W,R)=(29.28004pt, 538.94778pt, 29.28004pt)
+* v-part:(T,H,B)=(33.12827pt, 762.22617pt, 49.69241pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=537.75343pt
-* \textheight=760.53699pt
-* \oddsidemargin=-42.39278pt
-* \evensidemargin=-42.39278pt
-* \topmargin=-75.46606pt
+* \textwidth=538.94778pt
+* \textheight=762.22617pt
+* \oddsidemargin=-42.98994pt
+* \evensidemargin=-42.98994pt
+* \topmargin=-76.14172pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1123,32 +1123,30 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 156.
+(hyperref)                removing `math shift' on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathaccent' on input line 156.
+(hyperref)                removing `\mathaccent' on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 156.
+(hyperref)                removing `math shift' on input line 159.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 156.
+(Font)              <12> on input line 159.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 202.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.44pt
-(hyperref)                removed on input line 202.
+(hyperref)                removed on input line 205.
 
 
 
-[2]
-
-[3] (./short_CV.aux)
+[2] (./short_CV.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1159,21 +1157,21 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.83pt have occurred.
 
 Package rerunfilecheck Info: File `short_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 3526AFD31CEB35E243333E85348C3580;2304.
+(rerunfilecheck)             Checksum: 5F98C509BF74D6FEADBCF5EEC2A3A217;2674.
  ) 
 Here is how much of TeX's memory you used:
- 29277 strings out of 473190
- 558958 string characters out of 5715801
- 981166 words of memory out of 5000000
- 51961 multiletter control sequences out of 15000+600000
- 578360 words of font info for 112 fonts, out of 8000000 for 9000
+ 29298 strings out of 473190
+ 559182 string characters out of 5715801
+ 981176 words of memory out of 5000000
+ 51962 multiletter control sequences out of 15000+600000
+ 579366 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,14n,129p,1041b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on short_CV.pdf (3 pages, 192209 bytes).
+Output written on short_CV.pdf (2 pages, 190476 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
+ 193 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
  20 named destinations out of 1000 (max. 500000)
- 37005 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 37013 words of extra memory for PDF output out of 42996 (max. 10000000)
 
